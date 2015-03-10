@@ -1,0 +1,12 @@
+[{"id":"1",
+  "nombre":"Cerro Porteño",
+  "img":"img/cerro.png"},
+  {"id":"2",
+  "nombre":"Olimpia",
+  "img":"img/olimpia.png"},
+  {"id":"3",
+  "nombre":"Libertad",
+  "img":"img/libertad.png"}
+  {"id":"4",
+  "nombre":"Nacional",
+  "img":"img/nacional.png"}]

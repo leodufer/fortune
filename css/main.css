@@ -1,0 +1,151 @@
+body{
+	background-color: #f2f1f1;
+}
+
+header{
+	background-color: #96000e;
+	height: 160px;
+}
+section{
+	background-color: #fff;
+	margin: 25px;
+	margin-top: -140px;
+	border-radius: 4px;
+}
+.apostar{
+	margin-top: 8px;
+}
+.actions{
+	font-size: 1.5em;
+	color: #aaa;
+	margin: 8px 5px;
+}
+.actions span{
+	margin-left: 15px;
+}
+.active{
+	font-weight: bold;
+	background-color: #f2f1f1;
+}
+.amigo{
+	margin: 0px;
+	padding: px;
+}
+.amigos{
+	margin: 0px auto;
+	background-color: #fff;
+}
+
+.amigo-texto{
+	border-bottom:solid 1px #f2f1f1;
+	border-right: solid 1px #f2f1f1;
+	padding-left: 20px;
+}
+.amigo-texto h4{
+	padding: 4px 0px;
+	margin: 0px;
+}
+.badge{
+	background-color: green;
+}
+.content{
+	background-color: #fff;
+	padding: 15px 30px;
+}
+
+.contactos{
+	background-color: #f2f1f1;
+	border-radius: 4px 0px 0px 0px;
+	padding: 0px;
+}
+.contactos .row{
+	padding: 5px 10px;
+}
+.enfasis{
+	color: #96000e;
+	font-size: 18px;
+	font-style: italic;
+}
+.icon-input{
+	background-color: #fff;
+	border: none;
+	color: #aaa;
+}
+.input-icon-left{
+	margin-top: 1px;
+}
+.img-circle{
+	border-radius: 50%;
+	height: 50px;
+}
+.img-main{
+	margin: 10px auto;
+	padding: 10px;
+}
+.img-main img{
+	height: 50px;
+	margin: auto;
+}
+.img-small{
+	border-radius: 50%;
+	height: 50px;
+	padding: 10px;
+}
+.header{
+	height: 60px;
+}
+
+.lista{
+	background-color: #fff;
+	margin-top: 10px;
+}
+
+.loader{
+	margin: 0px auto;
+	display: none;
+	text-align: center;
+}
+
+.mensajes{
+	background-color: #f2f1f1;
+	border-radius: 0px 4px 0px 0px;
+	padding: 10px;
+}
+.mensajes .row{
+	padding: 0px 8px;
+}
+.reset{
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.search{
+	margin: 9px;
+}
+.points{
+	background-color: #fff;
+	padding: 4px 8px;
+	margin: auto;
+	margin-top: 4px;
+	border-radius: 50%;
+	font-size: 18px;
+}
+.result{
+	display: none;
+	text-align: center;
+}
+
+#team-a-detail{
+	display: none;
+}
+#team-b-detail{
+	display: none;
+}
+.text-centered{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+
+

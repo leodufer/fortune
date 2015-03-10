@@ -1,0 +1,30 @@
+<form action="" method="POST" role="form" id="apuestaForm">
+	<div class="form-group">
+		<div class="row">
+			<div class="col-xs-5 text-center">
+				<h4 id="equipoaname"></h4>
+				<input type="number"  min="0" class="form-control" id="teamaresult" name="teamaresult" value="0">
+			</div>
+			<div class="col-xs-2 text-center">
+				<h3>VS</h3>
+			</div>
+			<div class="col-xs-5 text-center">
+				<h4 id="equipobname"></h4>
+				<input type="number"  min="0" class="form-control" id="teambresult" name="teambresult" value="0">
+			</div>
+		</div>
+		<hr>
+		<label for="">Monto</label>
+		<input type="hidden" name="equipoa" id="equipoa" class="form-control">
+		<input type="hidden" name="equipob" id="equipob" class="form-control">
+		<input type="number" step="1000" min="1000" class="form-control" id="monto" name="monto" placeholder="Escriba el monto de su apuesta" value="1000">
+		<hr>
+		<div class="">
+			<div class="row">
+				<button type="submit" class="btn btn-primary">
+				 <span class="glyphicon glyphicon-floppy-disk"></span> Guardar
+				</button>
+			</div>
+		</div>
+	</div>	
+</form>
